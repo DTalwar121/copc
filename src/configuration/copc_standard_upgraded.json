@@ -1,0 +1,2313 @@
+{
+  "version": "8.0",
+  "release_date": "2025-01-01",
+  "compliance_threshold": 0.9,
+  "categories": [
+    {
+      "id": "1.0",
+      "name": "Leadership and Planning",
+      "points": 460
+    },
+    {
+      "id": "2.0",
+      "name": "Designing & Implementing",
+      "points": 440
+    },
+    {
+      "id": "3.0",
+      "name": "Managing Processes",
+      "points": 1100
+    },
+    {
+      "id": "4.0",
+      "name": "Results",
+      "points": 2400
+    }
+  ],
+  "items": [
+    {
+      "id": "1.1",
+      "category_id": "1.0",
+      "name": "Setting Direction",
+      "points": 100
+    },
+    {
+      "id": "1.2",
+      "category_id": "1.0",
+      "name": "Business Planning",
+      "points": 160
+    },
+    {
+      "id": "1.3",
+      "category_id": "1.0",
+      "name": "Setting Targets",
+      "points": 100
+    },
+    {
+      "id": "1.4",
+      "category_id": "1.0",
+      "name": "Reviewing Business Performance",
+      "points": 100
+    },
+    {
+      "id": "2.1",
+      "category_id": "2.0",
+      "name": "Gathering and Analyzing Customer Information",
+      "points": 100
+    },
+    {
+      "id": "2.2",
+      "category_id": "2.0",
+      "name": "Designing Service Journeys",
+      "points": 100
+    },
+    {
+      "id": "2.3",
+      "category_id": "2.0",
+      "name": "Designing KCRPs",
+      "points": 100
+    },
+    {
+      "id": "2.4",
+      "category_id": "2.0",
+      "name": "Defining Tasks",
+      "points": 60
+    },
+    {
+      "id": "2.5",
+      "category_id": "2.0",
+      "name": "Implementing and Managing Change",
+      "points": 40
+    },
+    {
+      "id": "2.6",
+      "category_id": "2.0",
+      "name": "Establishing Business Continuity Plans",
+      "points": 40
+    },
+    {
+      "id": "3.1",
+      "category_id": "3.0",
+      "name": "Recruiting and Hiring",
+      "points": 80
+    },
+    {
+      "id": "3.2",
+      "category_id": "3.0",
+      "name": "Training and Development",
+      "points": 80
+    },
+    {
+      "id": "3.3",
+      "category_id": "3.0",
+      "name": "Verifying Capabilities and Knowledge",
+      "points": 80
+    },
+    {
+      "id": "3.4",
+      "category_id": "3.0",
+      "name": "Monitoring and Coaching CSSs",
+      "points": 80
+    },
+    {
+      "id": "3.5",
+      "category_id": "3.0",
+      "name": "Managing Staff Performance & Absenteeism",
+      "points": 120
+    },
+    {
+      "id": "3.6",
+      "category_id": "3.0",
+      "name": "Managing Employee Experience and Attrition",
+      "points": 100
+    },
+    {
+      "id": "3.7",
+      "category_id": "3.0",
+      "name": "Managing Workload",
+      "points": 160
+    },
+    {
+      "id": "3.8",
+      "category_id": "3.0",
+      "name": "Managing Quality",
+      "points": 80
+    },
+    {
+      "id": "3.9",
+      "category_id": "3.0",
+      "name": "Optimizing Service Journeys",
+      "points": 100
+    },
+    {
+      "id": "3.10",
+      "category_id": "3.0",
+      "name": "Managing Knowledge and Content",
+      "points": 60
+    },
+    {
+      "id": "3.11",
+      "category_id": "3.0",
+      "name": "Managing Vendors and Key Suppliers",
+      "points": 40
+    },
+    {
+      "id": "3.12",
+      "category_id": "3.0",
+      "name": "Reporting and Data Integrity",
+      "points": 40
+    },
+    {
+      "id": "3.13",
+      "category_id": "3.0",
+      "name": "Managing Corrective Action and Continuous Improvement",
+      "points": 80
+    },
+    {
+      "id": "4.1",
+      "category_id": "4.0",
+      "name": "Customer Experience Performance",
+      "points": 700
+    },
+    {
+      "id": "4.2a",
+      "category_id": "4.0",
+      "name": "Overall Cost Performance (For CSPs only)",
+      "points": 200
+    },
+    {
+      "id": "4.2b",
+      "category_id": "4.0",
+      "name": "Client Experience Performance (For BPOs only)",
+      "points": 400
+    },
+    {
+      "id": "4.3",
+      "category_id": "4.0",
+      "name": "Key Customer Related Process Performance",
+      "points": 550
+    },
+    {
+      "id": "4.4",
+      "category_id": "4.0",
+      "name": "Key Support Process Performance",
+      "points": 200
+    },
+    {
+      "id": "4.5",
+      "category_id": "4.0",
+      "name": "Achieving Results",
+      "points": 350
+    },
+    {
+      "id": "3.14",
+      "category_id": "3.0",
+      "name": "Managing BPO Sales & RFXs",
+      "points": 40
+    },
+    {
+      "id": "3.15",
+      "category_id": "3.0",
+      "name": "On-boarding & Closing Clients, Services, and Programs",
+      "points": 60
+    },
+    {
+      "id": "3.16",
+      "category_id": "3.0",
+      "name": "Managing Client Relationships & Invoicing",
+      "points": 60
+    },
+    {
+      "id": "3.17",
+      "category_id": "3.0",
+      "name": "Providing Client Reports",
+      "points": 40
+    }
+  ],
+  "sub_items": [
+    {
+      "id": "1.1.1",
+      "item_id": "1.1",
+      "text": "The CSP\u2019s statement of direction must address Customer Experience and one or more of the following:",
+      "order": 1
+    },
+    {
+      "id": "1.1.2",
+      "item_id": "1.1",
+      "text": "The CSP must ensure management and employee behavior are aligned with the statement of direction.",
+      "order": 2
+    },
+    {
+      "id": "1.1.3",
+      "item_id": "1.1",
+      "text": "The CSP must ensure individual departments work together effectively and their goals and actions are",
+      "order": 3
+    },
+    {
+      "id": "1.2.1",
+      "item_id": "1.2",
+      "text": "The CSP\u2019s process for developing its Annual Entity, CX Technology, and Department Business Plans must",
+      "order": 1
+    },
+    {
+      "id": "1.2.2",
+      "item_id": "1.2",
+      "text": "The CSP\u2019s process for developing its Annual Entity, CX Technology and Department Business Plans must",
+      "order": 2
+    },
+    {
+      "id": "1.2.3",
+      "item_id": "1.2",
+      "text": "The Annual Entity and Department Business Plans must be documented, and each plan must contain:",
+      "order": 3
+    },
+    {
+      "id": "1.2.4",
+      "item_id": "1.2",
+      "text": "The CSP must have documented compliance and privacy policies along with procedures that consider",
+      "order": 4
+    },
+    {
+      "id": "1.3.1",
+      "item_id": "1.3",
+      "text": "For all required metrics, targets must be clearly identified.",
+      "order": 1
+    },
+    {
+      "id": "1.3.2",
+      "item_id": "1.3",
+      "text": "Targets must be set at high performance levels unless these are in conflict with the entity\u2019s statement of",
+      "order": 2
+    },
+    {
+      "id": "1.3.3",
+      "item_id": "1.3",
+      "text": "Targets must be consistent with the annual entity business plans and the impact on service, quality and",
+      "order": 3
+    },
+    {
+      "id": "1.3.4",
+      "item_id": "1.3",
+      "text": "Targets must be periodically reviewed, and where performance is routinely better than target and",
+      "order": 4
+    },
+    {
+      "id": "1.4.1",
+      "item_id": "1.4",
+      "text": "Targets and performance must be known by the appropriate personnel. This includes the requirement",
+      "order": 1
+    },
+    {
+      "id": "1.4.2",
+      "item_id": "1.4",
+      "text": "The approach for reviewing performance must:",
+      "order": 2
+    },
+    {
+      "id": "1.4.3",
+      "item_id": "1.4",
+      "text": "The CSP must verify the procedures to ensure compliance, data security, protection of customer",
+      "order": 3
+    },
+    {
+      "id": "1.4.4",
+      "item_id": "1.4",
+      "text": "The CSP must conduct a review of the organization against the COPC CX Standard. At a minimum, the",
+      "order": 4
+    },
+    {
+      "id": "2.1.1",
+      "item_id": "2.1",
+      "text": "The structured approach must:",
+      "order": 1
+    },
+    {
+      "id": "2.1.2",
+      "item_id": "2.1",
+      "text": "Satisfaction with the customer experience must be measured for each service journey (identified in",
+      "order": 2
+    },
+    {
+      "id": "2.1.3",
+      "item_id": "2.1",
+      "text": "The information gathered must be aggregated and the CSP must quantify and understand the relative",
+      "order": 3
+    },
+    {
+      "id": "2.1.4",
+      "item_id": "2.1",
+      "text": "The CSP must take actions on factors controllable by the CSP and ensure the client is provided with the",
+      "order": 4
+    },
+    {
+      "id": "2.2.1",
+      "item_id": "2.2",
+      "text": "The structured approach for designing service journeys must:",
+      "order": 1
+    },
+    {
+      "id": "2.3.1",
+      "item_id": "2.3",
+      "text": "Each KCRP must include clear procedures that have a high probability of achieving client, customer, and",
+      "order": 1
+    },
+    {
+      "id": "2.3.2",
+      "item_id": "2.3",
+      "text": "For technology assisted KCRPs, the CSP must have an approach that:",
+      "order": 2
+    },
+    {
+      "id": "2.4.1",
+      "item_id": "2.4",
+      "text": "For each KCR task, the CSP must demonstrate the required minimum capabilities and knowledge are",
+      "order": 1
+    },
+    {
+      "id": "2.4.2",
+      "item_id": "2.4",
+      "text": "The required minimum capabilities and knowledge to perform the task must be verifiable (see Item 3.3",
+      "order": 2
+    },
+    {
+      "id": "2.4.3",
+      "item_id": "2.4",
+      "text": "KCR tasks must include but are not limited to; handling customer interactions (e.g. CSSs or bots),",
+      "order": 3
+    },
+    {
+      "id": "2.5.1",
+      "item_id": "2.5",
+      "text": "The CSP must have a structured approach to identify, scope and prioritize future changes.",
+      "order": 1
+    },
+    {
+      "id": "2.5.2",
+      "item_id": "2.5",
+      "text": "For major changes to (and new) products, services, programs, client or customer requirements or",
+      "order": 2
+    },
+    {
+      "id": "2.5.3",
+      "item_id": "2.5",
+      "text": "During implementation, the CSP must:",
+      "order": 3
+    },
+    {
+      "id": "2.6.1",
+      "item_id": "2.6",
+      "text": "The CSP must conduct a risk assessment of the potential problems that could adversely impact its",
+      "order": 1
+    },
+    {
+      "id": "2.6.2",
+      "item_id": "2.6",
+      "text": "Short Term Interruptions - The CSP must establish a documented plan that clarifies its approach to",
+      "order": 2
+    },
+    {
+      "id": "2.6.3",
+      "item_id": "2.6",
+      "text": "Long Term Disruptions - The CSP must establish a documented plan that clarifies its approach to the",
+      "order": 3
+    },
+    {
+      "id": "2.6.4",
+      "item_id": "2.6",
+      "text": "The recovery approach for both short term interruptions and long-term disruptions must be well",
+      "order": 4
+    },
+    {
+      "id": "3.1.1",
+      "item_id": "3.1",
+      "text": "The CSP must establish a list of minimum hiring requirements for the individuals to be hired for each",
+      "order": 1
+    },
+    {
+      "id": "3.1.2",
+      "item_id": "3.1",
+      "text": "The CSP\u2019s recruiting and hiring approaches must identify and successfully recruit individuals with these",
+      "order": 2
+    },
+    {
+      "id": "3.1.3",
+      "item_id": "3.1",
+      "text": "Those recruited with these minimum hiring requirements must have a high probability of successfully",
+      "order": 3
+    },
+    {
+      "id": "3.1.4",
+      "item_id": "3.1",
+      "text": "The CSP must measure and manage On Time to Recruit and a Recruitment Quality metric to show that",
+      "order": 4
+    },
+    {
+      "id": "3.2.1",
+      "item_id": "3.2",
+      "text": "Training must be performed for all the minimum capabilities and knowledge required for the KCR task",
+      "order": 1
+    },
+    {
+      "id": "3.2.2",
+      "item_id": "3.2",
+      "text": "The CSP\u2019s approach to training and development must be formally defined for all KCR tasks and must:",
+      "order": 2
+    },
+    {
+      "id": "3.2.3",
+      "item_id": "3.2",
+      "text": "If the trainee CSS is required to handle live interactions during the training process, e.g., calls, email,",
+      "order": 3
+    },
+    {
+      "id": "3.2.4",
+      "item_id": "3.2",
+      "text": "There must be formal retraining of existing staff and technology if capability and knowledge",
+      "order": 4
+    },
+    {
+      "id": "3.2.5",
+      "item_id": "3.2",
+      "text": "The CSP must measure and manage a Training Quality and/or technology learning metric(s) to show KCR",
+      "order": 5
+    },
+    {
+      "id": "3.2.6",
+      "item_id": "3.2",
+      "text": "At least annually, the CSP must review the effectiveness of training for staff or technology performing",
+      "order": 6
+    },
+    {
+      "id": "3.3.1",
+      "item_id": "3.3",
+      "text": "For all staff and technology performing KCR tasks (including existing staff and technology), all minimum",
+      "order": 1
+    },
+    {
+      "id": "3.3.2",
+      "item_id": "3.3",
+      "text": "The verification process for all staff and technology performing KCR tasks must ensure:",
+      "order": 2
+    },
+    {
+      "id": "3.3.3",
+      "item_id": "3.3",
+      "text": "For capability and knowledge verification of people performing KCR tasks requiring multiple",
+      "order": 3
+    },
+    {
+      "id": "3.4.1",
+      "item_id": "3.4",
+      "text": "Monitoring - The CSS monitoring approach must ensure that:",
+      "order": 1
+    },
+    {
+      "id": "3.4.2",
+      "item_id": "3.4",
+      "text": "Coaching - The CSP must take actions at the individual CSS level based on monitoring results. The CSS",
+      "order": 2
+    },
+    {
+      "id": "3.5.1",
+      "item_id": "3.5",
+      "text": "For all staff in CSS and supervisor jobs, the CSP must at least quarterly:",
+      "order": 1
+    },
+    {
+      "id": "3.5.2",
+      "item_id": "3.5",
+      "text": "For all staff undertaking KCR tasks with end dates of more than one year:",
+      "order": 2
+    },
+    {
+      "id": "3.5.3",
+      "item_id": "3.5",
+      "text": "The CSP must measure and manage CSS absenteeism metrics to show it is in control (See Exhibit 3 for",
+      "order": 3
+    },
+    {
+      "id": "3.6.1",
+      "item_id": "3.6",
+      "text": "The structured approach must include proactively soliciting feedback from CSSs and supervisors at least",
+      "order": 1
+    },
+    {
+      "id": "3.6.2",
+      "item_id": "3.6",
+      "text": "At least annually for CSSs at the entity level the CSP must conduct an employee experience survey and",
+      "order": 2
+    },
+    {
+      "id": "3.6.3",
+      "item_id": "3.6",
+      "text": "The CSP must proactively involve CSSs and supervisors in identifying process improvement opportunities",
+      "order": 3
+    },
+    {
+      "id": "3.6.4",
+      "item_id": "3.6",
+      "text": "The CSP must evaluate, analyze, and take effective corrective action on feedback identified above that",
+      "order": 4
+    },
+    {
+      "id": "3.6.5",
+      "item_id": "3.6",
+      "text": "The CSP must measure and manage CSS attrition metrics to show they are in control (See Exhibit 3 for",
+      "order": 5
+    },
+    {
+      "id": "3.7.1",
+      "item_id": "3.7",
+      "text": "Forecasting \u2013 For each interaction Capacity and Scheduling Plan (e.g., calls, emails, chatbots), the CSP",
+      "order": 1
+    },
+    {
+      "id": "3.7.2",
+      "item_id": "3.7",
+      "text": "Capacity Planning - The CSP must develop a capacity plan(s) (using the appropriate demand",
+      "order": 2
+    },
+    {
+      "id": "3.7.3",
+      "item_id": "3.7",
+      "text": "Scheduling - The CSP\u2019s scheduling approach must:",
+      "order": 3
+    },
+    {
+      "id": "3.7.4",
+      "item_id": "3.7",
+      "text": "Real Time Management - The CSP must use a structured approach for:",
+      "order": 4
+    },
+    {
+      "id": "3.7.5",
+      "item_id": "3.7",
+      "text": "Allocating Interactions - The CSP must:",
+      "order": 5
+    },
+    {
+      "id": "3.8.1",
+      "item_id": "3.8",
+      "text": "The quality management approach must enable the CSP to measure the accuracy or defect rate",
+      "order": 1
+    },
+    {
+      "id": "3.8.2",
+      "item_id": "3.8",
+      "text": "The CSP must have an approach for analyzing quality results to identify frequent errors. This must",
+      "order": 2
+    },
+    {
+      "id": "3.8.3",
+      "item_id": "3.8",
+      "text": "The CSP\u2019s quality management approach must ensure that individuals or technology performing",
+      "order": 3
+    },
+    {
+      "id": "3.9.1",
+      "item_id": "3.9",
+      "text": "The CSP must:",
+      "order": 1
+    },
+    {
+      "id": "3.9.2",
+      "item_id": "3.9",
+      "text": "At least annually, the CSP must analyze and evaluate the data gathered above and take appropriate",
+      "order": 2
+    },
+    {
+      "id": "3.9.3",
+      "item_id": "3.9",
+      "text": "If the entity is not responsible for the entire service journey, then the entity must:",
+      "order": 3
+    },
+    {
+      "id": "3.10.1",
+      "item_id": "3.10",
+      "text": "The CSP must use a structured approach for content management to ensure content used by customers,",
+      "order": 1
+    },
+    {
+      "id": "3.10.2",
+      "item_id": "3.10",
+      "text": "The CSP must measure and manage the timeliness and accuracy of content management using all",
+      "order": 2
+    },
+    {
+      "id": "3.11.1",
+      "item_id": "3.11",
+      "text": "The CSP must have a documented statement (such as a contract, service level agreement, or letter) of its",
+      "order": 1
+    },
+    {
+      "id": "3.11.2",
+      "item_id": "3.11",
+      "text": "The statement of requirements must include the following:",
+      "order": 2
+    },
+    {
+      "id": "3.11.3",
+      "item_id": "3.11",
+      "text": "The CSP must analyze the performance of each of its vendors or key suppliers quarterly. At least once",
+      "order": 3
+    },
+    {
+      "id": "3.11.4",
+      "item_id": "3.11",
+      "text": "Corrective action plans must be developed if a vendor or key supplier\u2019s performance is found to be",
+      "order": 4
+    },
+    {
+      "id": "3.12.1",
+      "item_id": "3.12",
+      "text": "For all required metrics, the CSP must ensure the data:",
+      "order": 1
+    },
+    {
+      "id": "3.12.2",
+      "item_id": "3.12",
+      "text": "Reports and dashboards must be made available to the appropriate personnel, and these personnel",
+      "order": 2
+    },
+    {
+      "id": "3.13.1",
+      "item_id": "3.13",
+      "text": "The CSP must use a structured problem-solving approach to process improvement that:",
+      "order": 1
+    },
+    {
+      "id": "3.13.2",
+      "item_id": "3.13",
+      "text": "The CSP must apply this methodology....",
+      "order": 2
+    },
+    {
+      "id": "3.13.3",
+      "item_id": "3.13",
+      "text": "The CSP must have an approach that ensures....",
+      "order": 3
+    },
+    {
+      "id": "4.1.1",
+      "item_id": "4.1",
+      "text": "The CSP must measure and be compliant with the guidelines set out in Exhibit 1 for:",
+      "order": 1
+    },
+    {
+      "id": "4.1.2",
+      "item_id": "4.1",
+      "text": "The CSP must use any customer experience metrics required by clients.",
+      "order": 2
+    },
+    {
+      "id": "4.1.3",
+      "item_id": "4.1",
+      "text": "Data must be collected for these metrics on a continuous basis.",
+      "order": 3
+    },
+    {
+      "id": "4.1.4",
+      "item_id": "4.1",
+      "text": "The CSP must measure and manage all required customer experience metrics in Exhibit 1 for",
+      "order": 4
+    },
+    {
+      "id": "4.2a.1",
+      "item_id": "4.2a",
+      "text": "The CSP must measure the overall cost of service delivery, including all channels for which the CSP is",
+      "order": 1
+    },
+    {
+      "id": "4.2a.2",
+      "item_id": "4.2a",
+      "text": "The CSP must use all overall cost management metrics in Exhibit 1.",
+      "order": 2
+    },
+    {
+      "id": "4.2a.3",
+      "item_id": "4.1",
+      "text": "Required metrics used by the CSP must be compliant with the guidelines in Exhibit 1.",
+      "order": 3
+    },
+    {
+      "id": "4.2a.4",
+      "item_id": "4.2a",
+      "text": "The CSP must use any overall cost metrics required by clients.",
+      "order": 4
+    },
+    {
+      "id": "4.2a.5",
+      "item_id": "4.2a",
+      "text": "Data must be maintained for all metrics on a continuous basis.",
+      "order": 5
+    },
+    {
+      "id": "4.2a.6",
+      "item_id": "4.1",
+      "text": "Data must be gathered from 100% of the data; sampling is not permitted.",
+      "order": 6
+    },
+    {
+      "id": "4.2b.1",
+      "item_id": "4.2b",
+      "text": "The client experience with the BPO must be measured and compliant with the guidelines set out in",
+      "order": 1
+    },
+    {
+      "id": "4.2b.2",
+      "item_id": "4.2b",
+      "text": "The BPO must use any client experience metrics required by clients.",
+      "order": 2
+    },
+    {
+      "id": "4.2b.3",
+      "item_id": "4.2b",
+      "text": "The BPO must collect client dissatisfaction data from 100% of the clients and programs.",
+      "order": 3
+    },
+    {
+      "id": "4.3.1",
+      "item_id": "4.3",
+      "text": "For each Exhibit 2 KCRP that the CSP or a vendor performs, the CSP must use all the required metrics",
+      "order": 1
+    },
+    {
+      "id": "4.3.2",
+      "item_id": "4.3",
+      "text": "Exhibit 2 required metrics used by the CSP or a vendor must be compliant with the guidelines set out in",
+      "order": 2
+    },
+    {
+      "id": "4.3.3",
+      "item_id": "4.3",
+      "text": "The CSP must use any KCRP metrics required by clients.",
+      "order": 3
+    },
+    {
+      "id": "4.3.4",
+      "item_id": "4.3",
+      "text": "Data must be collected for all KCRP metrics on a continuous basis.",
+      "order": 4
+    },
+    {
+      "id": "4.3.5",
+      "item_id": "4.3",
+      "text": "The CSP may use a sampling approach to measure quality performance; all other data must be collected",
+      "order": 5
+    },
+    {
+      "id": "4.3.6",
+      "item_id": "4.3",
+      "text": "Targets for real-time KCRPs delivered by humans (Speed of Answer and Abandonment Rate) must be",
+      "order": 6
+    },
+    {
+      "id": "4.3.7",
+      "item_id": "4.3",
+      "text": "The CSP must demonstrate it understands the potential cost savings from realized efficiency gains.",
+      "order": 7
+    },
+    {
+      "id": "4.3.8",
+      "item_id": "4.3",
+      "text": "For KCRPs carried out by Vendors, all KCRP metrics must be measured and managed except efficiency.",
+      "order": 8
+    },
+    {
+      "id": "4.4.1",
+      "item_id": "4.4",
+      "text": "For each Exhibit 3 KSP that the CSP or a key supplier performs, the CSP must use all the metrics listed in",
+      "order": 1
+    },
+    {
+      "id": "4.4.2",
+      "item_id": "4.4",
+      "text": "Exhibit 3 KSP metrics used by the CSP or a key supplier must be compliant with the guidelines set out in",
+      "order": 2
+    },
+    {
+      "id": "4.4.3",
+      "item_id": "4.4",
+      "text": "The CSP must use any KSP metrics required by clients.",
+      "order": 3
+    },
+    {
+      "id": "4.4.4",
+      "item_id": "4.4",
+      "text": "Data must be gathered from 100% of the data; sampling is not permitted unless specifically stated in",
+      "order": 4
+    },
+    {
+      "id": "4.5.1",
+      "item_id": "4.5",
+      "text": "The CSP must:",
+      "order": 1
+    },
+    {
+      "id": "4.5.2",
+      "item_id": "4.5",
+      "text": "The CSP can include additional metrics provided:",
+      "order": 2
+    },
+    {
+      "id": "4.5.3",
+      "item_id": "4.5",
+      "text": "A minimum of three continuous months of data is required for each newly implemented KCRP metric for",
+      "order": 3
+    },
+    {
+      "id": "4.5.4",
+      "item_id": "4.5",
+      "text": "Entities involving multiple locations or services (within or across locations) must meet the requirements",
+      "order": 4
+    },
+    {
+      "id": "3.14.1",
+      "item_id": "3.14",
+      "text": "The BPO Sales approach must include:",
+      "order": 1
+    },
+    {
+      "id": "3.14.2",
+      "item_id": "3.14",
+      "text": "There must be an annual review of:",
+      "order": 2
+    },
+    {
+      "id": "3.14.3",
+      "item_id": "3.14",
+      "text": "The annual review must be used to make adjustments to its new business development process.",
+      "order": 3
+    },
+    {
+      "id": "3.14.4",
+      "item_id": "3.14",
+      "text": "The approach to responding to RFXs must include a formal decision process for determining if the BPO is",
+      "order": 4
+    },
+    {
+      "id": "3.14.5",
+      "item_id": "3.14",
+      "text": "Development of the Response must include:",
+      "order": 5
+    },
+    {
+      "id": "3.14.6",
+      "item_id": "3.14",
+      "text": "The BPO must measure and manage all the metrics listed in Exhibit 3 for Responding to RFXs.",
+      "order": 6
+    },
+    {
+      "id": "3.15.1",
+      "item_id": "3.15",
+      "text": "The approach must include an understanding of the client requirements.",
+      "order": 1
+    },
+    {
+      "id": "3.15.2",
+      "item_id": "3.15",
+      "text": "The BPO must:",
+      "order": 2
+    },
+    {
+      "id": "3.15.3",
+      "item_id": "3.15",
+      "text": "The approach must include an exit plan which covers:",
+      "order": 3
+    },
+    {
+      "id": "3.16.1",
+      "item_id": "3.16",
+      "text": "The approach must include designating a client relationship manager(s) for each client.",
+      "order": 1
+    },
+    {
+      "id": "3.16.2",
+      "item_id": "3.16",
+      "text": "A process by which the BPO obtains information from the client necessary for the provision of services,",
+      "order": 2
+    },
+    {
+      "id": "3.16.3",
+      "item_id": "3.16",
+      "text": "A formal, regular business review must be conducted with each client. This review must be done at least",
+      "order": 3
+    },
+    {
+      "id": "3.16.4",
+      "item_id": "3.16",
+      "text": "The BPO must quantify at the program level and across multiple programs for a client:",
+      "order": 4
+    },
+    {
+      "id": "3.16.5",
+      "item_id": "3.16",
+      "text": "Satisfaction must be measured and analyzed at least quarterly.",
+      "order": 5
+    },
+    {
+      "id": "3.16.6",
+      "item_id": "3.16",
+      "text": "The BPO must assess the satisfaction of all client staff that have significant:",
+      "order": 6
+    },
+    {
+      "id": "3.16.7",
+      "item_id": "3.16",
+      "text": "The BPO must measure and manage complaints and other key indicators of client dissatisfaction at the",
+      "order": 7
+    },
+    {
+      "id": "3.16.8",
+      "item_id": "3.16",
+      "text": "A client complaint must be broadly defined as any negative comment (received in person or by phone,",
+      "order": 8
+    },
+    {
+      "id": "3.16.9",
+      "item_id": "3.16",
+      "text": "The invoicing approach must include:",
+      "order": 9
+    },
+    {
+      "id": "3.16.10",
+      "item_id": "3.16",
+      "text": "The BPO must measure and manage all the metrics listed in Exhibit 3 for Invoicing clients.",
+      "order": 10
+    },
+    {
+      "id": "3.17.1",
+      "item_id": "3.17",
+      "text": "The approach for reporting performance to clients must include:",
+      "order": 1
+    },
+    {
+      "id": "3.17.2",
+      "item_id": "3.17",
+      "text": "Measuring and managing all the required metrics in Exhibit 3 for Reporting to Clients.",
+      "order": 2
+    },
+    {
+      "id": "3.17.3",
+      "item_id": "3.17",
+      "text": "At least annually, review with each client their reporting requirements and ensure that reports produced",
+      "order": 3
+    }
+  ],
+  "sub_sub_items": [
+    {
+      "id": "1.1.1.a",
+      "sub_item_id": "1.1.1",
+      "text": "Employee Experience",
+      "order": 1
+    },
+    {
+      "id": "1.1.1.b",
+      "sub_item_id": "1.1.1",
+      "text": "Service",
+      "order": 2
+    },
+    {
+      "id": "1.1.1.c",
+      "sub_item_id": "1.1.1",
+      "text": "Quality",
+      "order": 3
+    },
+    {
+      "id": "1.1.1.d",
+      "sub_item_id": "1.1.1",
+      "text": "Sales (Revenue)",
+      "order": 4
+    },
+    {
+      "id": "1.1.1.e",
+      "sub_item_id": "1.1.1",
+      "text": "Cost",
+      "order": 5
+    },
+    {
+      "id": "1.2.1.a",
+      "sub_item_id": "1.2.1",
+      "text": "Customer feedback and customer data.",
+      "order": 1
+    },
+    {
+      "id": "1.2.1.b",
+      "sub_item_id": "1.2.1",
+      "text": "All required metrics listed in Exhibits 1, 2, and 3 to identify prolonged failures and opportunities for improving performance.",
+      "order": 2
+    },
+    {
+      "id": "1.2.1.c",
+      "sub_item_id": "1.2.1",
+      "text": "New channels or technology (e.g., customer or agent support technology) for delivering a better customer experience and reducing cost.",
+      "order": 3
+    },
+    {
+      "id": "1.2.1.d",
+      "sub_item_id": "1.2.1",
+      "text": "Service journey design and the mix of channels and activities, and the impact this has on costs and customer experience.",
+      "order": 4
+    },
+    {
+      "id": "1.2.1.e",
+      "sub_item_id": "1.2.1",
+      "text": "The expected volume of interactions and the ability of the infrastructure and staff to support the workload.",
+      "order": 5
+    },
+    {
+      "id": "1.2.1.f",
+      "sub_item_id": "1.2.1",
+      "text": "Employee experience and engagement data.",
+      "order": 6
+    },
+    {
+      "id": "1.2.1.g",
+      "sub_item_id": "1.2.1",
+      "text": "The ethical and responsible use considerations that arise in the handling of customer interactions, especially with regard to the usage of AI.",
+      "order": 7
+    },
+    {
+      "id": "1.2.2.a",
+      "sub_item_id": "1.2.2",
+      "text": "Entity, CX technology and department plans are consistent with and supportive of each other \u2013 including those for each channel if they are managed by different departments.",
+      "order": 1
+    },
+    {
+      "id": "1.2.2.b",
+      "sub_item_id": "1.2.2",
+      "text": "Managers and supervisors understand their specific responsibilities in carrying out the actions in the plans.",
+      "order": 2
+    },
+    {
+      "id": "1.2.3.a",
+      "sub_item_id": "1.2.3",
+      "text": "Quantified Financial Objectives: Objectives for improving productivity and efficiency, increasing revenue, reducing costs, or achieving budget can be considered financial objectives.",
+      "order": 1
+    },
+    {
+      "id": "1.2.3.b",
+      "sub_item_id": "1.2.3",
+      "text": "Quantified Non-Financial Objectives: Objectives must be established for those Category 4.0 Results metrics that relate to the statement of direction and annual entity business plan.",
+      "order": 2
+    },
+    {
+      "id": "1.2.3.c",
+      "sub_item_id": "1.2.3",
+      "text": "For each quantified financial and non-financial objective, the CSP must define: i. The actions that will be taken to achieve the objective. ii. Milestones for implementing these actions. iii. The manager(s) who will be responsible for implementation.",
+      "order": 3
+    },
+    {
+      "id": "1.2.4.a",
+      "sub_item_id": "1.2.4",
+      "text": "Customer data and information considered by clients to be sensitive and proprietary.",
+      "order": 1
+    },
+    {
+      "id": "1.2.4.b",
+      "sub_item_id": "1.2.4",
+      "text": "How compliance to international, national, state, and federal regulatory requirements will be ensured.",
+      "order": 2
+    },
+    {
+      "id": "1.2.4.c",
+      "sub_item_id": "1.2.4",
+      "text": "How customer privacy will be protected.",
+      "order": 3
+    },
+    {
+      "id": "1.2.4.d",
+      "sub_item_id": "1.2.4",
+      "text": "The processes for ensuring data security.",
+      "order": 4
+    },
+    {
+      "id": "1.2.4.e",
+      "sub_item_id": "1.2.4",
+      "text": "An ethics policy which must address considerations in the design, implementation and use of technology solutions for customers and employees, especially with regard to the usage of AI.",
+      "order": 5
+    },
+    {
+      "id": "1.3.2.a",
+      "sub_item_id": "1.3.2",
+      "text": "Industry research",
+      "order": 1
+    },
+    {
+      "id": "1.3.2.b",
+      "sub_item_id": "1.3.2",
+      "text": "Competitive research",
+      "order": 2
+    },
+    {
+      "id": "1.3.2.c",
+      "sub_item_id": "1.3.2",
+      "text": "Benchmark data",
+      "order": 3
+    },
+    {
+      "id": "1.3.2.d",
+      "sub_item_id": "1.3.2",
+      "text": "Client requirements",
+      "order": 4
+    },
+    {
+      "id": "1.3.2.e",
+      "sub_item_id": "1.3.2",
+      "text": "Regulatory requirements",
+      "order": 5
+    },
+    {
+      "id": "1.3.2.f",
+      "sub_item_id": "1.3.2",
+      "text": "Customer research",
+      "order": 6
+    },
+    {
+      "id": "1.4.2.a",
+      "sub_item_id": "1.4.2",
+      "text": "Include formal monthly analysis of performance to business plans and performance to targets for all required metrics.",
+      "order": 1
+    },
+    {
+      "id": "1.4.2.b",
+      "sub_item_id": "1.4.2",
+      "text": "Lead to actions if results fall below targets, and the actions must demonstrate sustained improvement.",
+      "order": 2
+    },
+    {
+      "id": "1.4.4.a",
+      "sub_item_id": "1.4.4",
+      "text": "Be conducted annually.",
+      "order": 1
+    },
+    {
+      "id": "1.4.4.b",
+      "sub_item_id": "1.4.4",
+      "text": "Assess compliance with all requirements of the COPC CX Standard for Contact Centers.",
+      "order": 2
+    },
+    {
+      "id": "1.4.4.c",
+      "sub_item_id": "1.4.4",
+      "text": "Yield findings that include documented evidence of \"compliance\" and \"non-compliance\" to the COPC CX Standard for Contact Centers and opportunities for improvement in processes, performance and technology.",
+      "order": 3
+    },
+    {
+      "id": "1.4.4.d",
+      "sub_item_id": "1.4.4",
+      "text": "Implement corrective actions for areas of non-compliance.",
+      "order": 4
+    },
+    {
+      "id": "2.1.1.a",
+      "sub_item_id": "2.1.1",
+      "text": "Gather feedback from customers about the client's products, services, support and service policies, processes, and procedures from any part of the service journey or any aspects of customer handling from all channels.",
+      "order": 1
+    },
+    {
+      "id": "2.1.1.b",
+      "sub_item_id": "2.1.1",
+      "text": "Identify reasons why customers contact the CSP.",
+      "order": 2
+    },
+    {
+      "id": "2.1.2.a",
+      "sub_item_id": "2.1.2",
+      "text": "For the service journey, the CSP must measure and manage the customer's overall experience with the service journey. The experience with the service journey must be measured at least monthly and analyzed at least quarterly.",
+      "order": 1
+    },
+    {
+      "id": "2.1.2.b",
+      "sub_item_id": "2.1.2",
+      "text": "For the channel, at the program level, the CSP must measure and manage overall satisfaction and dissatisfaction with the customer experience associated with the interaction.",
+      "order": 2
+    },
+    {
+      "id": "2.1.2.c",
+      "sub_item_id": "2.1.2",
+      "text": "If a sampling approach is used for these measures, samples must be unbiased.",
+      "order": 3
+    },
+    {
+      "id": "2.2.1.a",
+      "sub_item_id": "2.2.1",
+      "text": "Identify those service journeys that have the highest potential impact on the CSP, client, or customer.",
+      "order": 1
+    },
+    {
+      "id": "2.2.1.b",
+      "sub_item_id": "2.2.1",
+      "text": "Incorporate a deep understanding of customer intents, expectations, and service journey experiences (see Item 2.1 Gathering and Analyzing Customer Information).",
+      "order": 2
+    },
+    {
+      "id": "2.2.1.c",
+      "sub_item_id": "2.2.1",
+      "text": "Align with the CSP's statement of direction and strategies for achieving it (see Item 1.2 Business Planning)",
+      "order": 3
+    },
+    {
+      "id": "2.2.1.d",
+      "sub_item_id": "2.2.1",
+      "text": "For the service journeys identified in 2.2.1.a, the following must be identified and documented (e.g., through blueprinting)",
+      "order": 4
+    },
+    {
+      "id": "2.2.1.e",
+      "sub_item_id": "2.2.1",
+      "text": "Understand the impact on issue resolution and customer effort.",
+      "order": 5
+    },
+    {
+      "id": "2.2.1.f",
+      "sub_item_id": "2.2.1",
+      "text": "Ensure, for service journey involving more than one channel, that the customer experience is consistent across channels unless there is a business reason for this differentiation.",
+      "order": 6
+    },
+    {
+      "id": "2.3.2.a",
+      "sub_item_id": "2.3.2",
+      "text": "Allows customers to recover from input errors.",
+      "order": 1
+    },
+    {
+      "id": "2.3.2.b",
+      "sub_item_id": "2.3.2",
+      "text": "Enables a seamless transfer to a CSS for handling if there are CSS supported channels.",
+      "order": 2
+    },
+    {
+      "id": "2.3.2.c",
+      "sub_item_id": "2.3.2",
+      "text": "Identifies and addresses undesired outcomes from any technology, e.g., unintended profiling.",
+      "order": 3
+    },
+    {
+      "id": "2.3.2.d",
+      "sub_item_id": "2.3.2",
+      "text": "The CSP must ensure all autonomous decisions made by any technology are accessible for review.",
+      "order": 4
+    },
+    {
+      "id": "2.5.2.a",
+      "sub_item_id": "2.5.2",
+      "text": "Define new or changed: i. KCRPs and KSPs ii. business requirements for CX technology iii. capabilities, knowledge, or procedures for KCR tasks iv. metrics and performance targets",
+      "order": 1
+    },
+    {
+      "id": "2.5.2.b",
+      "sub_item_id": "2.5.2",
+      "text": "Identify the impacted service journeys.",
+      "order": 2
+    },
+    {
+      "id": "2.5.2.c",
+      "sub_item_id": "2.5.2",
+      "text": "Ensure the changes are communicated to affected customers and KCR staff in a timely and accurate manner.",
+      "order": 3
+    },
+    {
+      "id": "2.5.2.d",
+      "sub_item_id": "2.5.2",
+      "text": "Ensure processes, including technology design, development, and control processes, are designed to meet requirements and targets.",
+      "order": 4
+    },
+    {
+      "id": "2.5.2.e",
+      "sub_item_id": "2.5.2",
+      "text": "Testing against acceptance criteria must be conducted during development and after a material change to ensure technology accurately and efficiently delivers as intended.",
+      "order": 5
+    },
+    {
+      "id": "2.5.2.f",
+      "sub_item_id": "2.5.2",
+      "text": "Must conduct a risk assessment of potential problems that could adversely impact technology availability, and build in redundancy, or contingency for problems most likely to occur.",
+      "order": 6
+    },
+    {
+      "id": "2.5.2.g",
+      "sub_item_id": "2.5.2",
+      "text": "Include a timeline for implementing requirements, (e.g., installing infrastructure, programming services, developing software and data links, hiring, and training staff, and communicating with customers.)",
+      "order": 7
+    },
+    {
+      "id": "2.5.2.h",
+      "sub_item_id": "2.5.2",
+      "text": "Ensure an audit is conducted early in the implementation to ensure processes are properly controlled and to verify the product, service, program, or technology is meeting client, CSP, customer, and all pertinent COPC CX Standard requirements.",
+      "order": 8
+    },
+    {
+      "id": "2.5.2.i",
+      "sub_item_id": "2.5.2",
+      "text": "Track the timeliness of the implementation and demonstrate that implementation milestones have been met.",
+      "order": 9
+    },
+    {
+      "id": "2.5.3.a",
+      "sub_item_id": "2.5.3",
+      "text": "Track the on-time setup of program components.",
+      "order": 1
+    },
+    {
+      "id": "2.5.3.b",
+      "sub_item_id": "2.5.3",
+      "text": "Track actual performance and compare results to performance targets.",
+      "order": 2
+    },
+    {
+      "id": "2.5.3.c",
+      "sub_item_id": "2.5.3",
+      "text": "Identify controllable and uncontrollable causes when performance targets are not met. Actions must be taken to address controllable causes.",
+      "order": 3
+    },
+    {
+      "id": "2.5.3.d",
+      "sub_item_id": "2.5.3",
+      "text": "Establish a target for timeliness that is consistent with the CSP's statement of direction and annual entity business plan.",
+      "order": 4
+    },
+    {
+      "id": "2.6.2.a",
+      "sub_item_id": "2.6.2",
+      "text": "If the plans for service continuity include increasing interactions handled by CSS, then the plans must be aligned and consistent with the approaches for real time management and allocating interactions under abnormal conditions (see Item 3.7.3 Scheduling and 3.7.4 Real Time Management).",
+      "order": 1
+    },
+    {
+      "id": "2.6.2.b",
+      "sub_item_id": "2.6.2",
+      "text": "Plans must address the continuity of technology used to service customers or support agents, including:",
+      "order": 2
+    },
+    {
+      "id": "2.6.2.c",
+      "sub_item_id": "2.6.2",
+      "text": "These plans must be demonstrated to be effective, either by simulation or actual occurrence, within the past twelve months.",
+      "order": 3
+    },
+    {
+      "id": "2.6.3.a",
+      "sub_item_id": "2.6.3",
+      "text": "Maintaining or restoring service.",
+      "order": 1
+    },
+    {
+      "id": "2.6.3.b",
+      "sub_item_id": "2.6.3",
+      "text": "Restoration of critical technologies.",
+      "order": 2
+    },
+    {
+      "id": "2.6.3.c",
+      "sub_item_id": "2.6.3",
+      "text": "Ensuring data integrity during transition.",
+      "order": 3
+    },
+    {
+      "id": "2.6.3.d",
+      "sub_item_id": "2.6.3",
+      "text": "Minimizing downtime.",
+      "order": 4
+    },
+    {
+      "id": "3.2.2.a",
+      "sub_item_id": "3.2.2",
+      "text": "Identify the setting or methodology, e.g., classroom, in-queue, on-the-job (OJT), Computer Based Training (CBT), systems training or machine learning.",
+      "order": 1
+    },
+    {
+      "id": "3.2.2.b",
+      "sub_item_id": "3.2.2",
+      "text": "List the specific capabilities and knowledge required for each KCR task. For example, if the minimum capability is \"how to use the desktop computer\", the specific capabilities and knowledge will include a list of all programs and information that the user will need.",
+      "order": 2
+    },
+    {
+      "id": "3.2.2.c",
+      "sub_item_id": "3.2.2",
+      "text": "Identify the people or technology authorized to provide the training.",
+      "order": 3
+    },
+    {
+      "id": "3.2.2.d",
+      "sub_item_id": "3.2.2",
+      "text": "Define the desired or required outcome that can be verified (see Item 3.3 Verifying Capabilities and Knowledge).",
+      "order": 4
+    },
+    {
+      "id": "3.2.3.a",
+      "sub_item_id": "3.2.3",
+      "text": "The trainee CSS must pass initial capability verification (see Item 3.3 Verifying Capabilities and Knowledge) before handling live interactions.",
+      "order": 1
+    },
+    {
+      "id": "3.2.3.b",
+      "sub_item_id": "3.2.3",
+      "text": "There must be structured supervision during the training period for processing live interactions.",
+      "order": 2
+    },
+    {
+      "id": "3.3.2.a",
+      "sub_item_id": "3.3.2",
+      "text": "Objective performance thresholds that are linked to the minimum requirements (including all minimum capabilities and knowledge) of the positions are established.",
+      "order": 1
+    },
+    {
+      "id": "3.3.2.b",
+      "sub_item_id": "3.3.2",
+      "text": "Staff and technology that pass the minimum performance thresholds are able to perform satisfactorily on the task.",
+      "order": 2
+    },
+    {
+      "id": "3.3.2.c",
+      "sub_item_id": "3.3.2",
+      "text": "There is documentation (e.g., tests, scores, dates) that can be audited.",
+      "order": 3
+    },
+    {
+      "id": "3.3.2.d",
+      "sub_item_id": "3.3.2",
+      "text": "Action plans are established for staff and technology that fail to demonstrate the required capabilities and knowledge.",
+      "order": 4
+    },
+    {
+      "id": "3.3.2.e",
+      "sub_item_id": "3.3.2",
+      "text": "All staff performing similar roles are verified in the same manner no matter what their status.",
+      "order": 5
+    },
+    {
+      "id": "3.3.2.f",
+      "sub_item_id": "3.3.2",
+      "text": "There is annual reverification of capabilities and knowledge for staff. For AI technology, calibration is carried out at an appropriate interval.",
+      "order": 6
+    },
+    {
+      "id": "3.3.2.g",
+      "sub_item_id": "3.3.2",
+      "text": "There is reverification of capabilities and knowledge following changes in program, procedures, technology, etc.",
+      "order": 7
+    },
+    {
+      "id": "3.3.3.a",
+      "sub_item_id": "3.3.3",
+      "text": "Initial verification: there must be at least two observations at two different times by a lead, supervisor, manager, or trainer.",
+      "order": 1
+    },
+    {
+      "id": "3.3.3.b",
+      "sub_item_id": "3.3.3",
+      "text": "Annual reverification: there must be at least one observation by a lead, supervisor, manager, or trainer.",
+      "order": 2
+    },
+    {
+      "id": "3.4.1.a",
+      "sub_item_id": "3.4.1",
+      "text": "Each CSS is monitored on an on-going basis for all interaction types (KCRPs) they handle. Each CSS must be monitored at least every month and must be monitored for each interaction type at least once each quarter.",
+      "order": 1
+    },
+    {
+      "id": "3.4.1.b",
+      "sub_item_id": "3.4.1",
+      "text": "Both side by side and remote monitoring is performed on an on-going basis. At least one of the monitoring sessions conducted each quarter for each CSS must be side by side and one remote.",
+      "order": 2
+    },
+    {
+      "id": "3.4.1.c",
+      "sub_item_id": "3.4.1",
+      "text": "New CSSs must be monitored at least once per week for at least their first month on the task.",
+      "order": 3
+    },
+    {
+      "id": "3.4.1.d",
+      "sub_item_id": "3.4.1",
+      "text": "Where monitoring is used to investigate specific performance issues with a CSS, such as high AHT or low customer experience scores, this monitoring must be in addition to the systematic on-going monitoring of the CSS.",
+      "order": 4
+    },
+    {
+      "id": "3.4.1.e",
+      "sub_item_id": "3.4.1",
+      "text": "There are clear performance thresholds (e.g., pass/fail) which must, at a minimum, be based on the CSS's Customer Critical Error Accuracy, Business Critical Error Accuracy, and Compliance Critical Error Accuracy scores (critical errors are defined in Item 3.8 Managing Quality). A CSS cannot pass monitoring if he/she makes critical errors.",
+      "order": 5
+    },
+    {
+      "id": "3.4.2.a",
+      "sub_item_id": "3.4.2",
+      "text": "There is a plan for communicating to CSSs the findings of all interactions, including both negative and positive feedback. The plan must specify the timeframe and the format for delivering this feedback.",
+      "order": 1
+    },
+    {
+      "id": "3.4.2.b",
+      "sub_item_id": "3.4.2",
+      "text": "CSSs are one-on-one coached on a sample of interactions they passed.",
+      "order": 2
+    },
+    {
+      "id": "3.4.2.c",
+      "sub_item_id": "3.4.2",
+      "text": "CSSs who fail a transaction monitoring must be: i. Monitored more frequently. ii. Individually (one-on-one) coached on all interactions that do not meet target.",
+      "order": 3
+    },
+    {
+      "id": "3.4.2.d",
+      "sub_item_id": "3.4.2",
+      "text": "For CSSs who repeatedly fail transaction monitoring, corrective actions are implemented. The CSP's approach for corrective action must provide for removing CSSs who repeatedly perform critical errors from handling customer interactions until effective corrective action is taken.",
+      "order": 4
+    },
+    {
+      "id": "3.5.1.a",
+      "sub_item_id": "3.5.1",
+      "text": "Conduct a review of each CSS's and supervisor's performance relative to each of their objectives (e.g., schedule adherence, transaction monitoring, AHT, absenteeism, coaching, etc.) and identify areas for improvement.",
+      "order": 1
+    },
+    {
+      "id": "3.5.1.b",
+      "sub_item_id": "3.5.1",
+      "text": "Develop and ensure the effective implementation of improvement plans for areas in which the CSS and supervisor are not achieving targeted levels.",
+      "order": 2
+    },
+    {
+      "id": "3.5.2.a",
+      "sub_item_id": "3.5.2",
+      "text": "At least annually, the CSP must conduct a formal/comprehensive review of each individual's performance to objectives, qualitative feedback, and identify areas for improvement.",
+      "order": 1
+    },
+    {
+      "id": "3.5.2.b",
+      "sub_item_id": "3.5.2",
+      "text": "All KCR task evaluations must consider and be consistent with the findings from capability and knowledge verification (Item 3.3 Verifying Capabilities and Knowledge) and for CSSs this includes transaction monitoring (Item 3.4 Monitoring and Coaching CSSs).",
+      "order": 2
+    },
+    {
+      "id": "3.5.2.c",
+      "sub_item_id": "3.5.2",
+      "text": "Evaluations must support the CSP's statement of direction and business performance targets.",
+      "order": 3
+    },
+    {
+      "id": "3.5.2.d",
+      "sub_item_id": "3.5.2",
+      "text": "The CSP must have a structured approach for career planning for CSSs and supervisors.",
+      "order": 4
+    },
+    {
+      "id": "3.7.2.a",
+      "sub_item_id": "3.7.2",
+      "text": "For all interaction types, the capacity plan must be created sufficiently far in advance to allow for the time needed to recruit and train new staff, reduce staff, or adjust technology capacity as needed.",
+      "order": 1
+    },
+    {
+      "id": "3.7.2.b",
+      "sub_item_id": "3.7.2",
+      "text": "The model must incorporate the target service level or cycle time and forecasts from 3.7.1 for: i. Interaction volume ii. Interaction handle time iii. Shrinkage iv. Concurrency where applicable",
+      "order": 2
+    },
+    {
+      "id": "3.7.2.c",
+      "sub_item_id": "3.7.2",
+      "text": "Capacity plans must be produced using weekly or daily data.",
+      "order": 3
+    },
+    {
+      "id": "3.7.3.a",
+      "sub_item_id": "3.7.3",
+      "text": "Calculate the number of CSS required at the relevant interval (by using the appropriate demand requirement calculation(s) for the type(s) of interaction(s) being handled).",
+      "order": 1
+    },
+    {
+      "id": "3.7.3.b",
+      "sub_item_id": "3.7.3",
+      "text": "Create a schedule that considers both its Service Level and Efficiency/Cost targets by minimizing the variation between the number of staff required and the number of staff available in each interval.",
+      "order": 2
+    },
+    {
+      "id": "3.7.3.c",
+      "sub_item_id": "3.7.3",
+      "text": "Incorporate service level or cycle time targets and forecasts for: i. Volume ii. Handle Time iii. Shrinkage iv. Concurrency where applicable",
+      "order": 3
+    },
+    {
+      "id": "3.7.3.d",
+      "sub_item_id": "3.7.3",
+      "text": "Be based on the following intervals: i. Real-time: no more than 30-minute intervals. ii. Deferred: Appropriate intervals for the targeted cycle time.",
+      "order": 4
+    },
+    {
+      "id": "3.7.3.e",
+      "sub_item_id": "3.7.3",
+      "text": "Schedules must be implemented as designed.",
+      "order": 5
+    },
+    {
+      "id": "3.7.3.f",
+      "sub_item_id": "3.7.3",
+      "text": "The CSP must periodically (at least every six months):",
+      "order": 6
+    },
+    {
+      "id": "3.7.4.a",
+      "sub_item_id": "3.7.4",
+      "text": "Taking actions during the day when actual performance is significantly different from the assumptions used to create the forecast and/or schedule, e.g., technology latency, interaction volumes, or AHT are significantly above or below forecasted levels.",
+      "order": 1
+    },
+    {
+      "id": "3.7.4.b",
+      "sub_item_id": "3.7.4",
+      "text": "Replanning staffing and scheduling for the near term (e.g., current day and/or week) when the plan is inconsistent with the inputs used to create the original schedule, e.g., if absenteeism, AHT, training, or volume, etc. is expected to be higher than originally forecasted.",
+      "order": 2
+    },
+    {
+      "id": "3.7.4.c",
+      "sub_item_id": "3.7.4",
+      "text": "Managing adherence (supply) at the interval level.",
+      "order": 3
+    },
+    {
+      "id": "3.7.4.d",
+      "sub_item_id": "3.7.4",
+      "text": "Measuring and managing all metrics for real time management required in Exhibit 3.",
+      "order": 4
+    },
+    {
+      "id": "3.7.5.a",
+      "sub_item_id": "3.7.5",
+      "text": "Use a structured approach for allocating interactions.",
+      "order": 1
+    },
+    {
+      "id": "3.7.5.b",
+      "sub_item_id": "3.7.5",
+      "text": "Route interactions to specific sites, queues, and CSSs/ technology according to the structured approach.",
+      "order": 2
+    },
+    {
+      "id": "3.7.5.c",
+      "sub_item_id": "3.7.5",
+      "text": "Where the CSP is managing a shared-queue environment, monitor overall network and site-level performance on a real-time basis, including as appropriate:",
+      "order": 3
+    },
+    {
+      "id": "3.8.1.a",
+      "sub_item_id": "3.8.1",
+      "text": "Where a sampling approach is used, the number of monthly interactions to be monitored or checked for each program must be based on an understanding of the statistical implications of the sample size.",
+      "order": 1
+    },
+    {
+      "id": "3.8.1.b",
+      "sub_item_id": "3.8.1",
+      "text": "The methodology used to select the sample of interactions to be monitored or checked is unbiased and does not affect the results.",
+      "order": 2
+    },
+    {
+      "id": "3.8.1.c",
+      "sub_item_id": "3.8.1",
+      "text": "If technology is used to automate quality evaluations, the CSP must have an ongoing decision review processes.",
+      "order": 3
+    },
+    {
+      "id": "3.8.1.d",
+      "sub_item_id": "3.8.1",
+      "text": "For customer-facing processes, Customer Critical Error Accuracy, Business Critical Error Accuracy, and Compliance Critical Error Accuracy must be monitored or checked and assessed as distinct components of interactions.",
+      "order": 4
+    },
+    {
+      "id": "3.8.2.a",
+      "sub_item_id": "3.8.2",
+      "text": "The aggregation of monitoring results to determine the causes of these frequent errors.",
+      "order": 1
+    },
+    {
+      "id": "3.8.2.b",
+      "sub_item_id": "3.8.2",
+      "text": "The CSP must investigate the causes of these frequent errors using the corrective action approach (see Item 3.13 Managing Corrective Action and Continuous Improvement) to identify how and where to address these errors in the organization.",
+      "order": 2
+    },
+    {
+      "id": "3.8.2.c",
+      "sub_item_id": "3.8.2",
+      "text": "Action must be taken to address the issues identified.",
+      "order": 3
+    },
+    {
+      "id": "3.8.3.a",
+      "sub_item_id": "3.8.3",
+      "text": "Technology being used to automate the evaluation of quality must be calibrated at an appropriate frequency to ensure that it consistently and accurately measures quality.",
+      "order": 1
+    },
+    {
+      "id": "3.8.3.b",
+      "sub_item_id": "3.8.3",
+      "text": "All staff performing monitoring must be calibrated at least quarterly using a quantitative approach that measures calibration at the attribute level in comparison to a reference or gauge.",
+      "order": 2
+    },
+    {
+      "id": "3.8.3.c",
+      "sub_item_id": "3.8.3",
+      "text": "The CSP must ensure ongoing quality results show consistency with the reference or gauge.",
+      "order": 3
+    },
+    {
+      "id": "3.9.1.a",
+      "sub_item_id": "3.9.1",
+      "text": "Develop a comprehensive understanding of service journey performance. This includes an understanding of customer effort and satisfaction, CSS effort and satisfaction, and issue resolution.",
+      "order": 1
+    },
+    {
+      "id": "3.9.1.b",
+      "sub_item_id": "3.9.1",
+      "text": "Identify failures in the service journeys, product design, technology implementation or other unintended drivers of customer effort, reviewing failures in channels and linkages between channels within service journeys.",
+      "order": 2
+    },
+    {
+      "id": "3.9.1.c",
+      "sub_item_id": "3.9.1",
+      "text": "Identify ways a service journey can be simplified while increasing resolution, the quality of the desired outcome, and customer satisfaction.",
+      "order": 3
+    },
+    {
+      "id": "3.9.1.d",
+      "sub_item_id": "3.9.1",
+      "text": "Determine which service journeys can be optimized through automation, elimination, simplification, or improvement.",
+      "order": 4
+    },
+    {
+      "id": "3.9.2.a",
+      "sub_item_id": "3.9.2",
+      "text": "Actions must be prioritized and taken in alignment with the CSP's goals as established in the CSP's business direction (see Item 1.2 Business Planning).",
+      "order": 1
+    },
+    {
+      "id": "3.9.3.a",
+      "sub_item_id": "3.9.3",
+      "text": "Understand how their operation fits into the overall service journey.",
+      "order": 1
+    },
+    {
+      "id": "3.9.3.b",
+      "sub_item_id": "3.9.3",
+      "text": "Evaluate the upstream and downstream impacts the service they deliver has on the service journeys.",
+      "order": 2
+    },
+    {
+      "id": "3.9.3.c",
+      "sub_item_id": "3.9.3",
+      "text": "Provide information to affected business units to take actions.",
+      "order": 3
+    },
+    {
+      "id": "3.10.1.a",
+      "sub_item_id": "3.10.1",
+      "text": "Managing the consistency of content across channels.",
+      "order": 1
+    },
+    {
+      "id": "3.10.1.b",
+      "sub_item_id": "3.10.1",
+      "text": "Identifying and prioritizing changes (whether required by clients or customers or internally generated) to content.",
+      "order": 2
+    },
+    {
+      "id": "3.10.1.c",
+      "sub_item_id": "3.10.1",
+      "text": "An audit of content at a frequency appropriate to the business and customers.",
+      "order": 3
+    },
+    {
+      "id": "3.10.1.d",
+      "sub_item_id": "3.10.1",
+      "text": "Ensuring technology prompting content for CSSs is effective.",
+      "order": 4
+    },
+    {
+      "id": "3.10.1.e",
+      "sub_item_id": "3.10.1",
+      "text": "Users to provide feedback for the continuous improvement of the accuracy and usefulness of content.",
+      "order": 5
+    },
+    {
+      "id": "3.10.1.f",
+      "sub_item_id": "3.10.1",
+      "text": "Determining the method for execution of changes:",
+      "order": 6
+    },
+    {
+      "id": "3.10.1.g",
+      "sub_item_id": "3.10.1",
+      "text": "Ensuring only authorized staff and technology are able to make revisions to content.",
+      "order": 7
+    },
+    {
+      "id": "3.10.1.h",
+      "sub_item_id": "3.10.1",
+      "text": "Ensuring obsolete content is not visible but is retained to provide track and traceability and management of version control.",
+      "order": 8
+    },
+    {
+      "id": "3.11.2.a",
+      "sub_item_id": "3.11.2",
+      "text": "The type of support and the deliverables the CSP requires.",
+      "order": 1
+    },
+    {
+      "id": "3.11.2.b",
+      "sub_item_id": "3.11.2",
+      "text": "Anticipated interaction types and volumes.",
+      "order": 2
+    },
+    {
+      "id": "3.11.2.c",
+      "sub_item_id": "3.11.2",
+      "text": "Key performance metrics and targets.",
+      "order": 3
+    },
+    {
+      "id": "3.11.2.d",
+      "sub_item_id": "3.11.2",
+      "text": "The requirements for business continuity in the event of service interruptions.",
+      "order": 4
+    },
+    {
+      "id": "3.11.2.e",
+      "sub_item_id": "3.11.2",
+      "text": "Compliance with legal and regulatory requirements.",
+      "order": 5
+    },
+    {
+      "id": "3.12.1.a",
+      "sub_item_id": "3.12.1",
+      "text": "Are Collected.",
+      "order": 1
+    },
+    {
+      "id": "3.12.1.b",
+      "sub_item_id": "3.12.1",
+      "text": "Have Integrity. All data must be: i. Relevant ii. Objective iii. Accurate iv. Representative",
+      "order": 2
+    },
+    {
+      "id": "3.12.1.c",
+      "sub_item_id": "3.12.1",
+      "text": "Are audited at a frequency appropriate to the business and customers to ensure quality and reliability.",
+      "order": 3
+    },
+    {
+      "id": "3.13.1.a",
+      "sub_item_id": "3.13.1",
+      "text": "Defines the problem.",
+      "order": 1
+    },
+    {
+      "id": "3.13.1.b",
+      "sub_item_id": "3.13.1",
+      "text": "Analyzes data to determine causes.",
+      "order": 2
+    },
+    {
+      "id": "3.13.1.c",
+      "sub_item_id": "3.13.1",
+      "text": "Develops and implements solutions.",
+      "order": 3
+    },
+    {
+      "id": "3.13.1.d",
+      "sub_item_id": "3.13.1",
+      "text": "Monitors and evaluates results.",
+      "order": 4
+    },
+    {
+      "id": "3.13.2.a",
+      "sub_item_id": "3.13.2",
+      "text": "Apply this methodology to Efficiency or Cost, Sales, Customer Experience, and any other customer affecting metrics that do not meet performance 3/4ths of the time periods.",
+      "order": 1
+    },
+    {
+      "id": "3.13.2.b",
+      "sub_item_id": "3.13.2",
+      "text": "Use a structured prioritization process to take actions on those improvement initiatives that have the highest potential impact on the CSP, client, or customer.",
+      "order": 2
+    },
+    {
+      "id": "3.13.2.c",
+      "sub_item_id": "3.13.2",
+      "text": "Be able to demonstrate that performance has improved as a result of its process improvement efforts. The CSP must have a minimum of three examples of improved performance using the process improvement methodology, if the CSP is not meeting targeted performance levels for 75% or more of its required Customer Experience, Client Satisfaction, Service, Quality, Sales, Efficiency and Cost, metrics outlined in Item 4.5 Achieving Results.",
+      "order": 3
+    },
+    {
+      "id": "3.13.3.a",
+      "sub_item_id": "3.13.3",
+      "text": "Ensures the procedures for each KCRP are performed as intended and in a consistent manner across all shifts, work teams, and channels; i.e., the CSP must minimize variation.",
+      "order": 1
+    },
+    {
+      "id": "3.13.3.b",
+      "sub_item_id": "3.13.3",
+      "text": "Ensure high variation can be improved by using the continuous improvement process described in Item 3.13.1. As part of this improvement process, the CSP must:",
+      "order": 2
+    },
+    {
+      "id": "3.14.1.a",
+      "sub_item_id": "3.14.1",
+      "text": "A new business development process that the BPO applies to all potential new business opportunities.",
+      "order": 1
+    },
+    {
+      "id": "3.14.1.b",
+      "sub_item_id": "3.14.1",
+      "text": "Ensuring that the BPO's visible external profile (company web sites, marketing material etc.) supports its new business development process.",
+      "order": 2
+    },
+    {
+      "id": "3.14.2.a",
+      "sub_item_id": "3.14.2",
+      "text": "Opportunities that have been won or lost.",
+      "order": 1
+    },
+    {
+      "id": "3.14.2.b",
+      "sub_item_id": "3.14.2",
+      "text": "Its service offerings to ensure these are relevant and competitive in the marketplace.",
+      "order": 2
+    },
+    {
+      "id": "3.14.2.c",
+      "sub_item_id": "3.14.2",
+      "text": "New or emerging service opportunities for inclusion in its offers.",
+      "order": 3
+    },
+    {
+      "id": "3.14.4.a",
+      "sub_item_id": "3.14.4",
+      "text": "Fit of the potential service with the BPOs strategic intent, Statement of Direction, and new business requirements.",
+      "order": 1
+    },
+    {
+      "id": "3.14.4.b",
+      "sub_item_id": "3.14.4",
+      "text": "BPOs experience with the services or type of service required by the client.",
+      "order": 2
+    },
+    {
+      "id": "3.14.4.c",
+      "sub_item_id": "3.14.4",
+      "text": "Ability of the BPO to meet the client requirements and deadlines.",
+      "order": 3
+    },
+    {
+      "id": "3.14.4.d",
+      "sub_item_id": "3.14.4",
+      "text": "An assessment of ROI and margin expectations from the prospective business.",
+      "order": 4
+    },
+    {
+      "id": "3.14.5.a",
+      "sub_item_id": "3.14.5",
+      "text": "Assigning responsible personnel for ensuring the RFX is responded to by the client's deadline.",
+      "order": 1
+    },
+    {
+      "id": "3.14.5.b",
+      "sub_item_id": "3.14.5",
+      "text": "Assembling the necessary expertise to provide technical assistance in the creation of the response, e.g., Technology, Human Resources, Operations, Training, Finance, Reporting, and Management Information.",
+      "order": 2
+    },
+    {
+      "id": "3.14.5.c",
+      "sub_item_id": "3.14.5",
+      "text": "Developing questions to the client regarding areas of the RFX which are unclear and participating in any client organized RFX follow-up activities, e.g., conference calls to answer BPO questions.",
+      "order": 3
+    },
+    {
+      "id": "3.15.1.a",
+      "sub_item_id": "3.15.1",
+      "text": "The type of service and support required.",
+      "order": 1
+    },
+    {
+      "id": "3.15.1.b",
+      "sub_item_id": "3.15.1",
+      "text": "Anticipated interaction types and volumes.",
+      "order": 2
+    },
+    {
+      "id": "3.15.1.c",
+      "sub_item_id": "3.15.1",
+      "text": "Client key performance metrics and targets.",
+      "order": 3
+    },
+    {
+      "id": "3.15.1.d",
+      "sub_item_id": "3.15.1",
+      "text": "Payment models to be used in the contract.",
+      "order": 4
+    },
+    {
+      "id": "3.15.1.e",
+      "sub_item_id": "3.15.1",
+      "text": "Reporting and invoicing requirements.",
+      "order": 5
+    },
+    {
+      "id": "3.15.1.f",
+      "sub_item_id": "3.15.1",
+      "text": "Target implementation dates and project milestones.",
+      "order": 6
+    },
+    {
+      "id": "3.15.2.a",
+      "sub_item_id": "3.15.2",
+      "text": "Negotiate the terms and conditions of the contract.",
+      "order": 1
+    },
+    {
+      "id": "3.15.2.b",
+      "sub_item_id": "3.15.2",
+      "text": "Draft and finalize the required contracts and supporting documents (Statements of Work, SLAs etc.).",
+      "order": 2
+    },
+    {
+      "id": "3.15.2.c",
+      "sub_item_id": "3.15.2",
+      "text": "Develop an implementation plan and manage the implementation for new or changed client programs and services as covered in the requirements for managing major changes in Item 2.5 Implementing and Managing Change, specifically sub-Items 2.5.2.b-h.",
+      "order": 3
+    },
+    {
+      "id": "3.15.3.a",
+      "sub_item_id": "3.15.3",
+      "text": "Reviewing and analyzing all applicable contracts, agreements, invoices, and outstanding payments.",
+      "order": 1
+    },
+    {
+      "id": "3.15.3.b",
+      "sub_item_id": "3.15.3",
+      "text": "Developing with the client and or VMO an exit strategy with target dates and how operations are going to be managed during the period between announcement and closure.",
+      "order": 2
+    },
+    {
+      "id": "3.15.3.c",
+      "sub_item_id": "3.15.3",
+      "text": "Developing the required communications, e.g., notices to Clients, Program Staff, Key Suppliers, Stakeholders.",
+      "order": 3
+    },
+    {
+      "id": "3.15.3.d",
+      "sub_item_id": "3.15.3",
+      "text": "Developing a redeployment plan for staff employed in the program.",
+      "order": 4
+    },
+    {
+      "id": "3.15.3.e",
+      "sub_item_id": "3.15.3",
+      "text": "Developing a timeline of key activities and milestones.",
+      "order": 5
+    },
+    {
+      "id": "3.15.3.f",
+      "sub_item_id": "3.15.3",
+      "text": "Taking corrective action (including obtaining client and VMO's agreement on any date changes) when critical milestones are not met.",
+      "order": 6
+    },
+    {
+      "id": "3.16.1.a",
+      "sub_item_id": "3.16.1",
+      "text": "Client relationship management is a KCR task and the requirements of Items 2.4 Defining Tasks, 3.1 Recruiting and Hiring, 3.2 Training and Development, 3.3 Verifying Capabilities and Knowledge, and 3.5 Managing Staff Performance must be applied to this role.",
+      "order": 1
+    },
+    {
+      "id": "3.16.1.b",
+      "sub_item_id": "3.16.1",
+      "text": "The minimum capabilities for this KCR task must include but not limited to knowledge of client requirements and the terms of the client contract or Statement of Work.",
+      "order": 2
+    },
+    {
+      "id": "3.16.2.a",
+      "sub_item_id": "3.16.2",
+      "text": "Product and procedural information required for CSS or technology that requires training.",
+      "order": 1
+    },
+    {
+      "id": "3.16.2.b",
+      "sub_item_id": "3.16.2",
+      "text": "Timely forecast of anticipated volumes for all types of interactions or timely information of staffing requirements if Forecasting and Staffing are carried out by the client.",
+      "order": 2
+    },
+    {
+      "id": "3.16.2.c",
+      "sub_item_id": "3.16.2",
+      "text": "Changed information and updates to knowledgebases or any other information that CSSs require to perform their role.",
+      "order": 3
+    },
+    {
+      "id": "3.16.2.d",
+      "sub_item_id": "3.16.2",
+      "text": "Regular and timely reports of any BPO performance data tracked by the client, e.g., Customer Satisfaction and Dissatisfaction if this is performed by the client.",
+      "order": 4
+    },
+    {
+      "id": "3.16.2.e",
+      "sub_item_id": "3.16.2",
+      "text": "Regular and timely information and data regarding the performance of any KSPs or KCRPs performed by the client, e.g., Technology Uptime for client-managed technology.",
+      "order": 5
+    },
+    {
+      "id": "3.16.3.a",
+      "sub_item_id": "3.16.3",
+      "text": "Formal analysis of BPO performance to targets and plans required in the Statement of Work.",
+      "order": 1
+    },
+    {
+      "id": "3.16.3.b",
+      "sub_item_id": "3.16.3",
+      "text": "Review and discussion of anticipated client and program changes.",
+      "order": 2
+    },
+    {
+      "id": "3.16.3.c",
+      "sub_item_id": "3.16.3",
+      "text": "Ensuring corrective actions are developed (using a root cause analysis approach) when performance is not meeting target and the actions result in performance improvement.",
+      "order": 3
+    },
+    {
+      "id": "3.16.4.a",
+      "sub_item_id": "3.16.4",
+      "text": "Overall client satisfaction.",
+      "order": 1
+    },
+    {
+      "id": "3.16.4.b",
+      "sub_item_id": "3.16.4",
+      "text": "Client satisfaction with specific attributes, e.g., responsiveness, accuracy, report timeliness.",
+      "order": 2
+    },
+    {
+      "id": "3.16.6.a",
+      "sub_item_id": "3.16.6",
+      "text": "Influence over the client's relationship with the BPO.",
+      "order": 1
+    },
+    {
+      "id": "3.16.6.b",
+      "sub_item_id": "3.16.6",
+      "text": "Interaction with the BPO.",
+      "order": 2
+    },
+    {
+      "id": "3.16.8.a",
+      "sub_item_id": "3.16.8",
+      "text": "Client complaint and other dissatisfaction data must be: i. Collected on an on-going basis. ii. Tracked and recorded by cause or symptom. iii. Analyzed quarterly.",
+      "order": 1
+    },
+    {
+      "id": "3.16.8.b",
+      "sub_item_id": "3.16.8",
+      "text": "The BPO must take actions on all client complaints:",
+      "order": 2
+    },
+    {
+      "id": "3.16.9.a",
+      "sub_item_id": "3.16.9",
+      "text": "A timeline for producing invoices as soon as possible after the period ends.",
+      "order": 1
+    },
+    {
+      "id": "3.16.9.b",
+      "sub_item_id": "3.16.9",
+      "text": "A schedule for each client of which services are to be billed and the basis for calculating payment due.",
+      "order": 2
+    },
+    {
+      "id": "3.16.9.c",
+      "sub_item_id": "3.16.9",
+      "text": "An understanding of how any risk/reward or bonus/penalty payments will be applied to the account.",
+      "order": 3
+    },
+    {
+      "id": "3.16.9.d",
+      "sub_item_id": "3.16.9",
+      "text": "Calculation of any additional charges that were incurred by the client.",
+      "order": 4
+    },
+    {
+      "id": "3.17.1.a",
+      "sub_item_id": "3.17.1",
+      "text": "Determining: i. The BPO performance data and other information to be reported ii. The format, frequency, and recipients for each report.",
+      "order": 1
+    },
+    {
+      "id": "4.1.1.a",
+      "sub_item_id": "4.1.1",
+      "text": "The customer experience with the service journeys identified in 2.2.1.",
+      "order": 1
+    },
+    {
+      "id": "4.1.1.b",
+      "sub_item_id": "4.1.1",
+      "text": "The customer experience with each contact channel.",
+      "order": 2
+    },
+    {
+      "id": "4.3.1.a",
+      "sub_item_id": "4.3.1",
+      "text": "The CSP may combine the tracking of efficiency metrics from several Human Assisted KCRPs if the CSP uses \"blended\" staff (i.e., staff handling a mix of call, electronic and non-electronic interactions) to process transactions.",
+      "order": 1
+    },
+    {
+      "id": "4.3.1.b",
+      "sub_item_id": "4.3.1",
+      "text": "If the CSP uses callback technology that, when wait times are long, offers the caller options for the technology to keep their place in the queue and call them back when they are the next call to be answered or be called back at another time, then:",
+      "order": 2
+    },
+    {
+      "id": "4.4.4.a",
+      "sub_item_id": "4.4.4",
+      "text": "A minimum of three continuous months of data is required for each newly implemented KSP metric for the metric to be counted in the calculation of Item level scoring.",
+      "order": 1
+    },
+    {
+      "id": "4.5.1.a",
+      "sub_item_id": "4.5.1",
+      "text": "Meet or exceed targeted performance levels for a minimum of 50% of these performance metrics and",
+      "order": 1
+    },
+    {
+      "id": "4.5.1.b",
+      "sub_item_id": "4.5.1",
+      "text": "Meet or exceed targeted performance levels or exhibit sustained improvement in a total of 75% of these performance metrics.",
+      "order": 2
+    },
+    {
+      "id": "4.5.2.a",
+      "sub_item_id": "4.5.2",
+      "text": "The metrics are Service, Quality, Revenue, Cost or Client or Customer Experience metrics.",
+      "order": 1
+    },
+    {
+      "id": "4.5.2.b",
+      "sub_item_id": "4.5.2",
+      "text": "Each of the additional metrics is used by the CSP to manage the business.",
+      "order": 2
+    },
+    {
+      "id": "4.5.2.c",
+      "sub_item_id": "4.5.2",
+      "text": "Collectively these additional metrics do not exceed 10% of the metrics required.",
+      "order": 3
+    },
+    {
+      "id": "4.5.4.a",
+      "sub_item_id": "4.5.4",
+      "text": "Physical or virtual location in the entity.",
+      "order": 1
+    },
+    {
+      "id": "4.5.4.b",
+      "sub_item_id": "4.5.4",
+      "text": "Each group of locations (i.e., region).",
+      "order": 2
+    },
+    {
+      "id": "4.5.4.c",
+      "sub_item_id": "4.5.4",
+      "text": "Service, e.g., customer service, tech support, outbound, fulfillment, e-commerce, collections, healthcare, business process outsourcing.",
+      "order": 3
+    }
+  ]
+}

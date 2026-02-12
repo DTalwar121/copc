@@ -1,0 +1,10 @@
+{
+  "description": "Body Mass Index (BMI) Calculator",
+  "variables": {
+    "bmiValue": "weight / (height * height)"
+  },
+  "outputs": {
+    "bmi": "round(bmiValue, 2)",
+    "category": "bmiValue < 18.5 ? 'Underweight' : (bmiValue >= 30 ? 'Obese' : (bmiValue >= 25 ? 'Overweight' : 'Normal'))"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "description": "CX Cost Calculator",
+  "variables": {
+    "selfServiceIssues": "totalCustomers * (selfServiceRate / 100)",
+    "resolvedSelfService": "selfServiceIssues * (sstResolution / 100)",
+    "humanContacts": "totalCustomers - resolvedSelfService",
+    "resolvedHuman": "humanContacts * (currentFCR / 100)"
+  },
+  "outputs": {
+    "totalIssues": "totalCustomers",
+    "humanContactVolume": "round(humanContacts, 0)",
+    "selfServiceSuccess": "round(resolvedSelfService, 0)",
+    "fcrIssues": "round(resolvedHuman, 0)"
+  }
+}
