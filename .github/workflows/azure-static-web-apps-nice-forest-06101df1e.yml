@@ -47,5 +47,5 @@ jobs:
         with:
           azure_static_web_apps_api_token:  57383b39bc3fd747eb03412bb4331f8c2bd23fa21a26c521023e71842291769901-a3a763e0-2969-49b5-b0e9-02e2513d7b3401e241106101df1e
           action: "close"
-          app_location: ''
+          app_location: '/'
 
