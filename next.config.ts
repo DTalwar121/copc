@@ -4,6 +4,10 @@ const nextConfig: NextConfig = {
   experimental: {
     turbopackFileSystemCacheForDev: true,
   },
+   output: 'export',
+    images: {
+      unoptimized: true,
+    },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
